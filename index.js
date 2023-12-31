@@ -13,7 +13,7 @@ function toObject(site) {
     }))
     return data;
 }
-/** Pulls google sheets data
+/** Pulls google sheets data. The sheet you are reading must be public
  * @param {Object} config 
  * @param {string} config.fileId The file id
  * @param {string} config.gid The sheet id
