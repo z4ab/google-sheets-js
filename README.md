@@ -1,5 +1,5 @@
 # google-sheets-js
- Node module to read data from google sheets
+ Node module to read data from google sheets. Note: this only works for public spreadsheets
 
 ### Use package
 - Clone the repository
